@@ -5,6 +5,7 @@
  *		@version 1.0
  */
  //probando comentario
+ //tercer comentario
 public class Perro {
 		/**
 		*	Campos de la clase Perro: peso,nombre,raza, patas, collar, contador
@@ -105,7 +106,7 @@ public class Perro {
 			this.collar = collar;
 		}
 
-		// Comportamiento del objeto (métodos o mensajes que se le envían al objeto)
+		// Comportamiento del objeto (mï¿½todos o mensajes que se le envï¿½an al objeto)
 		
 		/** Metodo en el que se incremeta el atributo peso del objeto perro
 		 * 
@@ -121,7 +122,7 @@ public class Perro {
 				return 1;
 			}
 				else {
-				System.out.println("ñamñamñam!");
+				System.out.println("ï¿½amï¿½amï¿½am!");
 				return 0;
 				}
 			
